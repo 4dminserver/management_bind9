@@ -96,7 +96,7 @@ class help(object):
 	@staticmethod
 	#- @translate.[option](init('nameTranslate')) -> initializes the translation file
 	def info(translate):
-		return 'Management Bind 9'
+		return 'This module is created to manage bind9 for creating domains and subdomains (In the future)'
 
 	@staticmethod
 	#- Especificamos si necesita el modulo paquetes adicionales.
