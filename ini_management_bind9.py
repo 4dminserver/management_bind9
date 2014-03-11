@@ -31,7 +31,7 @@ class add(object):
 	def __init__(self, output, translate, log, installer, options):
 		#- Operations
 		#- Example:
-		interpret = translate.init('management_bind9')
+		interpret = translate.init('management_bind9', 'modules/management_bind9/locale')
 		_ = interpret.ugettext
 
 		msg = _("Management Bind 9")

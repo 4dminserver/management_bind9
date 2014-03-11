@@ -1,0 +1,127 @@
+# English translations for PACKAGE package.
+# Copyright (C) 2013 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Kevin Gonzalvo Vicente <interhack@gmail.com>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: management_bind9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-19 09:16+0100\n"
+"PO-Revision-Date: 2014-03-11 12:06+0100\n"
+"Last-Translator: interhack <interhack@gmail.com>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=ASCII\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+
+#: management_bind9.py:23
+msgid "Management Bind 9"
+msgstr "Management Bind 9"
+
+#: management_bind9.py:33
+msgid "1 - Add DNS"
+msgstr "1 - Agregar DNS"
+
+#: management_bind9.py:34
+msgid "2 - Edit DNS"
+msgstr "2 - Editar DNS"
+
+#: management_bind9.py:35
+msgid "3 - Delete DNS"
+msgstr "3 - Eliminar DNS"
+
+#: management_bind9.py:36
+msgid "4 - Activate DNS"
+msgstr "4 - Activar DNS"
+
+#: management_bind9.py:37
+msgid "5 - Regenerate DNS"
+msgstr "5 - Regenerar DNS"
+
+#: management_bind9.py:38
+msgid "6 - Restart Service DNS"
+msgstr "6 - Reiniciar Servicio DNS"
+
+#: management_bind9.py:38
+msgid "Invalid option"
+msgstr "Opcion no valida"
+
+#: management_bind9.py:38
+msgid "Domain Name: "
+msgstr "Nombre de Dominio: "
+
+#: management_bind9.py:38
+msgid "Email Contact: "
+msgstr "Email de Contacto: "
+
+#: management_bind9.py:38
+msgid "Ip Server: "
+msgstr "Ip del Servidor: "
+
+#: management_bind9.py:38
+msgid "NS Primary: "
+msgstr "NS Primario: "
+
+#: management_bind9.py:38
+msgid "NS Secundary: "
+msgstr "NS Secundario: "
+
+#: management_bind9.py:38
+msgid "Server Mail [y/N]: "
+msgstr "Servidor Email [y/N]: "
+
+#: management_bind9.py:38
+msgid "Type Zone [master]:"
+msgstr "Tipo Zona [master]:"
+
+#: management_bind9.py:38
+msgid "Ip transfer: "
+msgstr "Ip a transferir: "
+
+#: management_bind9.py:38
+msgid "Add Domain "
+msgstr "Agregado Dominio "
+
+#: management_bind9.py:38
+msgid "Must be listed"
+msgstr "Tiene que estar en la lista"
+
+#: management_bind9.py:38
+msgid "Edit Domain "
+msgstr "Editado Dominio "
+
+#: management_bind9.py:38
+msgid "Activate domain"
+msgstr "Dominio activado"
+
+#: management_bind9.py:38
+msgid "Option not valid"
+msgstr "Opcion no valida"
+
+#: management_bind9.py:38
+msgid "Domain Name ["
+msgstr "Nombre Dominio ["
+
+#: management_bind9.py:38
+msgid "Delete Domain "
+msgstr "Eliminado Dominio "
+
+#: management_bind9.py:38
+msgid "Must be a positive number"
+msgstr "Debe ser un numero positivo"
+
+#: management_bind9.py:38
+msgid "Restarting Service..."
+msgstr "Reiniciando servicio..."
+
+#: management_bind9.py:38
+msgid "Failed to restart service"
+msgstr "Error al reiniciar el servicio"
+
+#: management_bind9.py:38
+msgid "Restart service ok"
+msgstr "Servicio reiniciado correctamente"
