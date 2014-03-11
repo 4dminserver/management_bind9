@@ -117,7 +117,7 @@ class help(object):
 	#-Info version
 	@staticmethod
 	def version(translate=''):
-		return "Management_Apache Version 0.1"
+		return "Management_Bind9 Version 0.1"
 
 	@staticmethod
 	#- @translate.[option](init('nameTranslate')) -> initializes the translation file
