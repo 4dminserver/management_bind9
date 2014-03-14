@@ -215,7 +215,7 @@ www 3600 A        """+ ip_server)
 	def reload_service(translate, output, log):
 		import subprocess
 		_ = translate
-		output.default(color('magenta',_('Restarting Service...')))
+		output.default(color('magenta',_('Restarting Service...') + 'Bind9'))
 		command_restart = '/etc/init.d/bind9 restart'
 		restart = subprocess.Popen(command_restart, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
 		restart_error = restart.stderr.read()
